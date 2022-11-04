@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dale an <a href="https://linkedin.com/in/Dale">IT Professional</a>☺</h1>
+<h1>Hi, I'm Dale an <a href="https://linkedin.com/in/Dale">IT Professional
 
 <h2> Information Technology Projects:</h2>
 
