@@ -3,4 +3,4 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring a Resource group within Azure Virtual Machines
+  - [Configuring virtual machines in a resource group in MS Azure
