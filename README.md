@@ -3,11 +3,4 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure Virtual Machines
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols
-
-
-
-
-
-
+  - [Configuring a Resource group within Azure Virtual Machines
